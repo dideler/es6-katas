@@ -1,0 +1,20 @@
+{
+  "name": "es6-katas",
+  "version": "0.0.1",
+  "description": "Solutions to katas on http://es6katas.org",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dideler/es6-katas.git"
+  },
+  "keywords": ["js", "javascript", "es6", "kata", "challenge"],
+  "author": "Katas by Wolfram Kriesing; Solutions by Dennis Ideler",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dideler/es6-katas/issues"
+  },
+  "homepage": "https://github.com/dideler/es6-katas#readme"
+}
