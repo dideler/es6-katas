@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dideler/es6-katas/issues"
   },
-  "homepage": "https://github.com/dideler/es6-katas#readme"
+  "homepage": "https://github.com/dideler/es6-katas#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
 }
