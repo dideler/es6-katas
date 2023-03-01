@@ -19,6 +19,6 @@
   "homepage": "https://github.com/dideler/es6-katas#readme",
   "devDependencies": {
     "babel-register": "^6.26.0",
-    "mocha": "^4.0.1"
+    "mocha": "^10.2.0"
   }
 }
